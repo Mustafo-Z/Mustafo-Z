@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafo-Z
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning how to use FastAPI in a professional environment.
+- 🌱 I’m currently studying Machine Learning models.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can reach me via email: ziyo.mustafo1@gmail.com
 
