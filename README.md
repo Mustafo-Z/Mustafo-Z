@@ -26,7 +26,7 @@ I work on the layer where ML meets operations: fine-tuning pipelines, data colle
 | Human-in-the-loop ML | Full-stack monitoring dashboard where operator transcript corrections feed back into retraining | FastAPI + React |
 | LLM pipelines at scale | Automated price monitoring across 100,000+ products with custom scraping and LLM classification, replacing manual price comparison | Python, LLM APIs |
 | AI agent safety | Warmline: a policy engine and transcript checks around an ElevenLabs + Claude voice agent | [Repo](https://github.com/Mustafo-Z/warmline), 275 tests in CI |
-| Model compression | Compact variant of MiniCPM-o-2.6 (~160 MB to ~6 MB), built as a take-home project in Intel's interview process | Validated against the Optimum-Intel test suite |
+| Model test tooling | A random-weight MiniCPM-o-2.6 (about 6 MB, INT4 OpenVINO) to replace the 160 MB test model in Optimum Intel's OpenVINO test suite; a take-home task in Intel's interview process | Generator and validation scripts; [on Hugging Face](https://huggingface.co/M-Ziyo/tiny-random-MiniCPM-o-2_6-6mb) |
 | Mobile + backend | SpeakVolumes iOS app (solo, shipped to the App Store); a social platform with a Java backend, Swift iOS client and a custom mood classifier | App Store release; Alembic migrations introduced to production |
 
 ## Stack
